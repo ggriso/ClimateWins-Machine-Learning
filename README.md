@@ -11,10 +11,10 @@ ClimateWins believes that advanced tools, such as machine learning, could be piv
 By leveraging weather data from the past century, ClimateWins hopes to develop a predictive model that could offer insights into future weather patterns.
 
 Key questions:
-• How is machine learning used in weather forecasting?
-• What ethical concerns surround the use of ML and AI?
-• What are the historical extremes in temperature?
-• Can machine learning be employed to predict weather conditions on specific days?
+- How is machine learning used in weather forecasting?
+- What ethical concerns surround the use of ML and AI?
+- What are the historical extremes in temperature?
+- Can machine learning be employed to predict weather conditions on specific days?
 
 ### Data Source
 
