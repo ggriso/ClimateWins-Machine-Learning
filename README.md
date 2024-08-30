@@ -38,7 +38,7 @@ The project files are organized into the following folders:
 - **02 Data:** divided into two subfolders:
   1. Original Data: unscaled weather data + pleasant weather prediction data
   2. Prepared Data: scaled weather data
------- MAY BE OMITTED FROM THE REPOSITORY FOR SPACE-SAVING PURPOSES ------
+  ------ MAY BE OMITTED FROM THE REPOSITORY FOR SPACE-SAVING PURPOSES ------
 - **03 Scripts:** contains Jupyter notebooks with the corresponding code.
 - **04 Analysis/Visualizations:** holds relevant visuals.
 - **05 Sent to Client:** contains a pdf presentation to ClimateWins stakeholders.
